@@ -12,6 +12,7 @@ const baseApiUrl = async () => {
 
 module.exports.config = {
   name: "video",
+  aliases: "yt", "youtube",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "RX x MOHAMMAD AKASH ",
