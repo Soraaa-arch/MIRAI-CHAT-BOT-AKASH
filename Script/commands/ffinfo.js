@@ -6,7 +6,7 @@ module.exports.config = {
   hasPermssion: 0,
   credits: "MOHAMMAD AKASH",
   description: "Premium Free Fire Player Info (Text Style)",
-  commandCategory: "Free Fire",
+  commandCategory: "game",
   usages: "[UID]",
   cooldowns: 5
 };
