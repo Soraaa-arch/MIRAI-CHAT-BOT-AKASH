@@ -8,7 +8,7 @@ module.exports.config = {
   hasPermssion: 2,
   credits: "MOHAMMAD AKASH",
   description: "Send compact notification with optional media to all groups",
-  commandCategory: "system",
+  commandCategory: "admin",
   usages: "[your message] (or reply to media/text)",
   cooldowns: 5,
 };
