@@ -36,7 +36,7 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
 
 › 𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 ‹
 
-➤ 𝙼𝚘𝚑𝚊𝚖𝚖𝚊𝚍 𝙰𝚔𝚊𝚜𝚑
+➤ Pat
     `;
     return api.sendMessage(msg, threadID);
   }
